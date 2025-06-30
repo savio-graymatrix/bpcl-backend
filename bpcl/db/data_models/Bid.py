@@ -1,0 +1,41 @@
+from beanie import Document
+from pydantic import Field, BaseModel, ConfigDict
+from datetime import datetime, timezone
+from typing import Optional, List
+from bson import ObjectId
+
+
+class Bid(Document):
+    applicant_name: str
+    amount: float
+    gstin_no: str
+    pan_id: str
+    documents: List[ObjectId] = Field(default_factory=list)
+    created_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
+    updated_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
+
+    class Settings:
+        name = "bids"
+
+    model_config = ConfigDict(
+        json_encoders = {
+            ObjectId: str
+        },
+        arbitrary_types_allowed=True,
+    )
+
+
+class CreateBid(BaseModel):
+    applicant_name: str
+    amount: float
+    gstin_no: str
+    pan_id: str
+    documents: List[str]
+
+
+class UpdateBid(BaseModel):
+    applicant_name: Optional[str]
+    amount: Optional[float]
+    gstin_no: Optional[str]
+    pan_id: Optional[str]
+    documents: Optional[List[str]]
