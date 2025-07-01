@@ -102,3 +102,1162 @@
 [2025-06-30 14:26:51,993] INFO - App Logger - MongoDB connection closed
 [2025-06-30 14:26:54,585] INFO - App Logger - MongoDB connection initialized
 [2025-06-30 14:33:40,841] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:33:42,851] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:44:55,348] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:44:58,305] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:45:08,501] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:45:10,888] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:45:19,139] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:45:21,347] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:45:24,910] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:45:27,576] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:46:02,660] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:46:05,161] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:46:13,676] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:46:15,893] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:47:17,823] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:47:19,504] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:48:33,474] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:48:35,110] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:49:32,425] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:49:34,671] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:49:48,726] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:49:50,839] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:51:12,300] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:51:14,094] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:51:20,590] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:51:22,621] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:51:37,024] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:51:38,664] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:53:04,158] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:53:06,017] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:53:07,604] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:53:09,667] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:53:14,440] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:53:16,591] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:53:52,047] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:53:53,816] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:54:16,293] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:54:17,961] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:54:20,231] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:54:49,770] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:54:51,828] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:54:56,616] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:54:58,791] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:55:30,128] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:55:31,852] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:55:43,174] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:55:44,895] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:55:46,712] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:55:48,481] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:56:40,354] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:56:42,748] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:56:44,069] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:56:45,761] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:57:07,045] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:57:08,947] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:57:10,668] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:57:12,642] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:57:22,666] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:57:25,177] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:57:35,747] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:57:37,752] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:57:40,127] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:57:41,718] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:58:33,608] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:58:35,248] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:58:35,887] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:58:37,823] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:58:42,593] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:58:45,002] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:59:14,417] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:59:17,053] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 14:59:48,675] INFO - App Logger - MongoDB connection closed
+[2025-06-30 14:59:50,903] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:00:32,170] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:00:34,785] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:01:33,706] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:01:35,456] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:01:55,501] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:01:57,582] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:02:10,767] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:02:12,982] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:02:13,938] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:02:16,443] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:02:18,591] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:04:43,647] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:04:45,369] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:05:15,994] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:05:17,806] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:05:28,251] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:05:29,634] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:06:37,045] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:06:38,771] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:07:31,363] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:07:33,129] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:07:38,743] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:07:40,590] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:08:35,347] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:08:37,487] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:09:01,057] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:09:02,936] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:09:26,219] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:09:28,324] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:09:34,180] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:09:35,856] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:09:36,565] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:09:38,178] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:09:53,653] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:09:56,956] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:09:57,990] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:09:59,710] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:10:05,352] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:10:07,281] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:10:31,760] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:10:33,076] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:11:00,373] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:11:02,081] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:11:57,806] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:11:59,649] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:12:25,176] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:12:26,971] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:12:32,915] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:12:34,587] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:12:36,432] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:12:38,348] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:12:40,686] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:12:58,914] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:24:21,023] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:24:26,272] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:25:43,933] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:26:23,821] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:26:33,675] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:27:03,657] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:29:30,753] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:29:32,841] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002A518B1B920>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002A518B1BA70>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000002A518CD0290>
+[2025-06-30 15:33:33,735] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:33:38,959] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:33:40,057] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000017445CE0C50>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000017445E6BDD0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000174460205F0>
+[2025-06-30 15:34:16,213] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:38:59,707] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:39:00,682] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001B3CC397140>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001B3CC8E8170>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001B3CC8E85C0>
+[2025-06-30 15:41:09,624] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:41:11,242] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000017A263A7590>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000017A263A7AA0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000017A2655C4D0>
+[2025-06-30 15:41:17,236] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:41:49,507] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:41:49,821] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002233DD4BB60>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002233DC819D0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000002233DF04890>
+[2025-06-30 15:41:58,107] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:42:04,014] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:42:04,304] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001608DB4B590>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001608DB4BAA0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001608DCFC3B0>
+[2025-06-30 15:42:36,160] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:42:41,589] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:42:41,868] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001C3CB83BA10>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001C3CB83BDA0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001C3CB9E84D0>
+[2025-06-30 15:42:46,515] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:42:46,779] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000026BC5683800>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000026BC585BA70>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000026BC5A148F0>
+[2025-06-30 15:47:07,268] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:47:12,501] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:47:12,790] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001D96B9FB710>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001D96BABB320>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001D96BC7C140>
+[2025-06-30 15:47:28,021] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:47:33,259] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:47:34,194] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000024231D8B9B0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000024231D8B470>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000024231F48230>
+[2025-06-30 15:48:00,216] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:48:05,173] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:48:05,449] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000025F20EEB950>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000025F20EEA6F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000025F210B02F0>
+[2025-06-30 15:48:10,559] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:48:10,766] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000029B2D45B5C0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000029B2D45BB90>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000029B2D61C710>
+[2025-06-30 15:49:10,012] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:49:15,003] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:49:15,934] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002B426B9BCB0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002B426B9B320>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000002B426D582F0>
+[2025-06-30 15:50:11,837] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:50:16,767] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:50:17,697] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000013716EA5E80>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000013716EFBA10>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000137170BC4A0>
+[2025-06-30 15:50:58,336] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:51:09,761] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:51:10,131] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001E62745B860>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001E62745ABA0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001E62761C800>
+[2025-06-30 15:52:17,751] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:52:22,821] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:52:23,642] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000018AE3EABF20>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000018AE3DE9A00>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000018AE40705F0>
+[2025-06-30 15:52:35,449] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:52:40,997] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:52:41,213] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000016ABECBBD40>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000016ABECBB380>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000016ABEE803E0>
+[2025-06-30 15:53:26,919] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:53:32,632] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:53:32,994] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000022D27AFB5F0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000022D27AFBB00>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000022D27CC03B0>
+[2025-06-30 15:53:49,673] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:53:55,583] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:53:56,075] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000202F12EBDD0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000202F12EBBC0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000202F14B0380>
+[2025-06-30 15:54:00,921] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:54:06,543] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:54:07,352] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000223905BB350>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000223904FB8F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000223907805C0>
+[2025-06-30 15:55:59,433] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:56:04,404] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:56:04,642] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000022F45DE1250>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000022F45DE2420>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000022F45DE2150>
+[2025-06-30 15:56:12,980] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:56:18,471] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:56:18,709] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001CAA4380F50>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001CAA43813D0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001CAA43820C0>
+[2025-06-30 15:56:49,280] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:56:55,900] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:56:56,164] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000024B460BD580>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000024B460BD670>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000024B460BDD30>
+[2025-06-30 15:57:28,093] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:57:33,563] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:57:33,754] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002163A92D310>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002163A92DB20>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000002163A92E2D0>
+[2025-06-30 15:58:16,181] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:58:21,359] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:58:21,689] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002960CECD610>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002960CECD9D0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000002960CECDF10>
+[2025-06-30 15:58:22,420] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:58:27,768] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:58:28,005] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000026AD0F61430>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000026AD0F62450>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000026AD0F62150>
+[2025-06-30 15:59:33,635] INFO - App Logger - MongoDB connection closed
+[2025-06-30 15:59:39,025] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:59:39,652] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001F1D79D1C10>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001F1D79D23F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001F1D79D24E0>
+[2025-06-30 15:59:44,511] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 15:59:44,780] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000014CD9291190>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000014CD9292420>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000014CD92924E0>
+[2025-06-30 16:00:46,626] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:00:52,071] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:00:52,906] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001547FB88B60>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001547FDAA1E0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001547FDAA7B0>
+[2025-06-30 16:00:58,903] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:01:03,937] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:01:04,505] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001E21F338290>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001E21F43A8D0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001E21F43A5D0>
+[2025-06-30 16:01:09,457] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:01:09,757] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000206C2979D90>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000206C297A900>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000206C297A9F0>
+[2025-06-30 16:03:27,022] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:03:32,338] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:03:32,964] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001AE6CA58BF0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001AE6CBD9E50>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001AE6CBDA210>
+[2025-06-30 16:05:48,680] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:05:53,728] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:05:54,012] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000175AA2AB440>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000175AA3AADE0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000175AA3AAA80>
+[2025-06-30 16:06:34,125] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:06:39,307] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:06:39,889] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001FCB65E34A0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001FCB683A990>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001FCB683A6F0>
+[2025-06-30 16:06:53,892] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:06:59,388] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:06:59,689] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001DC7D07A2A0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001DC7D07AC90>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001DC7D07A990>
+[2025-06-30 16:08:21,639] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:08:26,914] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:08:27,145] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001929E1D83E0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001929E63A900>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001929E63A420>
+[2025-06-30 16:23:23,038] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:23:29,454] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:23:29,720] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001F74A8E97C0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001F74A69B890>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001F74A8E9EB0>
+[2025-06-30 16:23:41,121] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:23:46,489] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:23:46,737] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001BD470B8EF0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001BD470B9C40>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001BD470B9970>
+[2025-06-30 16:24:26,765] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:24:31,875] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:24:32,104] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000023DAA3C8740>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000023DAA3C93A0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000023DAA3C90D0>
+[2025-06-30 16:24:36,334] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:24:42,463] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:24:43,009] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000021635BA7320>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000021635D54800>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000021635D54B90>
+[2025-06-30 16:24:48,649] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:24:54,154] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:24:54,674] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000292A8727350>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000292A8727500>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000292A88EC140>
+[2025-06-30 16:25:00,105] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:25:07,616] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:25:07,895] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001EB5EC47500>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001EB5EC47530>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001EB5EE04770>
+[2025-06-30 16:31:25,421] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:31:32,608] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:31:32,852] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001CA7AE0DB50>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001CA7AE87AA0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001CA7B04C050>
+[2025-06-30 16:32:16,019] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:32:28,122] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:32:28,317] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000025BC4037C80>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000025BC4037C20>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000025BC41FC140>
+[2025-06-30 16:32:50,942] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:32:55,690] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:32:55,900] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002421FEA7D70>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002421FEA7890>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000242200642C0>
+[2025-06-30 16:33:53,085] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:33:58,062] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:33:58,353] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001C3E7E575F0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001C3E7E56E40>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001C3E8018050>
+[2025-06-30 16:34:45,157] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:34:50,677] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:34:50,931] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000222CA2878C0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000222CA287EF0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000222CA4480B0>
+[2025-06-30 16:34:54,596] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:34:59,905] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:35:00,184] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000235F8247650>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000235F8247110>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000235F8408110>
+[2025-06-30 16:35:02,219] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:35:07,264] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:35:07,774] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001ED08366CF0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001ED08367830>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001ED08367DA0>
+[2025-06-30 16:35:13,149] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:35:13,348] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001D5CD770D70>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001D5CD897EF0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001D5CDA58050>
+[2025-06-30 16:35:36,570] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:35:41,797] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:35:42,123] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000026B4FEBFD10>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000026B4FFD75C0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000026B50194260>
+[2025-06-30 16:35:42,410] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:35:47,943] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:35:48,323] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000287A2667170>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000287A2667FB0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000287A2828080>
+[2025-06-30 16:35:51,544] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:35:56,564] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:35:57,124] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000206768F04A0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000020676A475F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000020676C00590>
+[2025-06-30 16:36:22,396] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:36:27,821] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:36:29,066] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000024115C579B0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000024115C57020>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000024115E1C140>
+[2025-06-30 16:36:29,885] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:36:35,562] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:36:35,879] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000226783947D0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000022678397E90>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000022678558050>
+[2025-06-30 16:36:38,884] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:36:43,638] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:36:43,877] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000266E3387920>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000266E33871A0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000266E3548080>
+[2025-06-30 16:36:44,350] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:36:49,575] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:36:49,778] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000207B86D7170>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000207B86D6D50>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000207B889C050>
+[2025-06-30 16:42:14,567] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:42:19,882] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:42:20,128] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002D34F827500>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002D34F827F20>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000002D34F9E80B0>
+[2025-06-30 16:45:23,771] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:45:28,906] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:45:29,236] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001381C9871D0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001381C987410>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001381C987B90>
+[2025-06-30 16:45:54,849] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:46:54,576] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:46:54,813] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000025715957A70>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000025715956240>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000025715B14140>
+[2025-06-30 16:46:59,932] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:47:00,140] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000015AB47E7560>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000015AB47E7D40>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000015AB47E7BC0>
+[2025-06-30 16:47:05,011] DEBUG - App Logger - content="Absolutely! I'm here to help. What questions do you have or what information do you need?" additional_kwargs={} response_metadata={'finish_reason': 'stop', 'model_name': 'gpt-4o-mini-2024-07-18', 'system_fingerprint': 'fp_34a54ae93c', 'service_tier': 'default'} id='run--8a288aca-4b39-44fe-bd73-a40fdf01cf6c'
+[2025-06-30 16:49:02,764] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:49:08,037] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:49:08,287] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001540B3570B0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001540B357D40>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001540B357680>
+[2025-06-30 16:49:10,029] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:49:15,236] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:49:15,427] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001C74AA0DB80>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001C74C1C7140>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001C74C3880B0>
+[2025-06-30 16:52:05,661] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:52:10,501] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:52:10,719] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000200E21A71A0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000200E21A4950>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000200E2368050>
+[2025-06-30 16:52:25,900] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:52:30,558] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:52:30,821] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000020AE82675C0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000020AE81BE6F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000020AE8430050>
+[2025-06-30 16:53:44,284] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:53:49,590] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:53:50,481] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001CC24197200>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001CC240566F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001CC24197C20>
+[2025-06-30 16:53:51,423] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:53:56,390] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:53:57,311] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000017CF9AE47A0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000017CF9AE7CE0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000017CF9AE7A10>
+[2025-06-30 16:54:04,291] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:54:09,370] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:54:10,048] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000025DB57B7F80>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000025DB5887E60>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000025DB5887D10>
+[2025-06-30 16:55:15,811] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:55:21,676] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:55:21,903] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001C52028B6B0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001C522057D40>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001C522057B90>
+[2025-06-30 16:55:25,305] INFO - App Logger - MongoDB connection closed
+[2025-06-30 16:55:30,263] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 16:55:30,915] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000184F7F84830>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000184F7F87080>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000184F7F87650>
+[2025-06-30 16:55:36,446] DEBUG - App Logger - {'messages': [HumanMessage(content='Who are you', additional_kwargs={}, response_metadata={}, id='a95aea05-e5bb-4b4c-a4c4-af074f575b41'), AIMessage(content='I am a chatbot designed to assist you with your questions and provide information on various topics. How can I help you today?', additional_kwargs={}, response_metadata={'finish_reason': 'stop', 'model_name': 'gpt-4o-mini-2024-07-18', 'system_fingerprint': 'fp_34a54ae93c', 'service_tier': 'default'}, id='run--9308fe2d-c24f-4297-8b97-9a71fffbb9a2')]}
+[2025-06-30 16:55:40,995] DEBUG - App Logger - {'messages': [HumanMessage(content='Who are you', additional_kwargs={}, response_metadata={}, id='e8ac7a28-88c6-41b1-949d-222d0dd462c9'), AIMessage(content='I am an AI chatbot designed to assist with your questions and provide information on a wide range of topics. How can I help you today?', additional_kwargs={}, response_metadata={'finish_reason': 'stop', 'model_name': 'gpt-4o-mini-2024-07-18', 'system_fingerprint': 'fp_34a54ae93c', 'service_tier': 'default'}, id='run--8fdf692f-0eda-4651-8088-d2f79a87b6eb')]}
+[2025-06-30 17:10:48,579] INFO - App Logger - MongoDB connection closed
+[2025-06-30 17:10:55,117] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:10:56,222] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000028369D1E8D0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000028369A934D0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000028369D47B00>
+[2025-06-30 17:11:01,126] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:11:01,727] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000162B0256F30>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000162B02575C0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000162B0257BC0>
+[2025-06-30 17:13:12,590] INFO - App Logger - MongoDB connection closed
+[2025-06-30 17:13:18,860] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:13:19,573] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001C51D576D50>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001C51D2C26F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001C51D577A10>
+[2025-06-30 17:13:24,689] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:13:24,925] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000013EF3C774A0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000013EF3C77E30>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000013EF3C775C0>
+[2025-06-30 17:13:27,276] INFO - App Logger - MongoDB connection closed
+[2025-06-30 17:13:32,708] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:13:32,894] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000129AC5CECC0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000129AC5E6F90>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000129AC5E6A80>
+[2025-06-30 17:13:37,976] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:13:38,208] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000020443D37620>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000020443BBFEF0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000020443D373E0>
+[2025-06-30 17:14:11,317] INFO - App Logger - MongoDB connection closed
+[2025-06-30 17:14:19,602] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:14:20,177] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000128FBD8BFB0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000128FCD5E6F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000128FD0ACD40>
+[2025-06-30 17:14:26,254] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:14:26,537] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000220D02A6930>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000220D0FB7EF0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000220D0FB40E0>
+[2025-06-30 17:15:37,395] INFO - App Logger - MongoDB connection closed
+[2025-06-30 17:15:43,116] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:15:43,405] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001EEACFBB290>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001EEACFBB4D0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001EEAD17C530>
+[2025-06-30 17:16:45,112] INFO - App Logger - MongoDB connection closed
+[2025-06-30 17:16:51,394] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:16:51,714] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000025CB3573230>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000025CB35735F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000025CB3730290>
+[2025-06-30 17:17:01,402] INFO - App Logger - MongoDB connection closed
+[2025-06-30 17:17:12,892] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:17:13,181] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002A81AB4ECC0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002A81AB83AD0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000002A81AD441D0>
+[2025-06-30 17:17:13,399] INFO - App Logger - MongoDB connection closed
+[2025-06-30 17:17:19,029] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:17:19,348] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000015644F6FA10>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000015644FA2690>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000015644FA0470>
+[2025-06-30 17:20:51,537] INFO - App Logger - MongoDB connection closed
+[2025-06-30 17:20:59,167] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:20:59,493] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000213B5264230>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000213B5275280>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000213B543C830>
+[2025-06-30 17:21:10,241] INFO - App Logger - MongoDB connection closed
+[2025-06-30 17:21:16,796] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:21:17,103] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000017663858F50>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001766385AE70>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000176636CB1D0>
+[2025-06-30 17:21:22,999] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:21:23,635] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000017F9BF9FB90>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000017F9C09B710>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000017F9C25C2F0>
+[2025-06-30 17:21:42,584] INFO - App Logger - MongoDB connection closed
+[2025-06-30 17:21:48,500] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:21:48,831] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002372A77CFB0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002372A77FBC0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000002372A93C500>
+[2025-06-30 17:35:16,011] INFO - App Logger - MongoDB connection closed
+[2025-06-30 17:35:26,538] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:35:26,847] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000194AF3D2750>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000194AF3D3E00>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000194AF58C590>
+[2025-06-30 17:36:24,481] INFO - App Logger - MongoDB connection closed
+[2025-06-30 17:52:34,078] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 17:52:34,381] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001569A3079E0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001569A304E90>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001569963AED0>
+[2025-06-30 18:04:34,555] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:04:42,338] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:04:43,054] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000028898347080>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002889759E6F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000028898508230>
+[2025-06-30 18:04:49,159] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:04:49,485] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001EAE93668D0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001EAE9367920>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001EAE9520140>
+[2025-06-30 18:04:55,765] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:04:56,052] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000026541A279B0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000026541A27F80>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000026541BE4380>
+[2025-06-30 18:04:56,714] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:05:02,361] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:05:02,711] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000014FBE3167B0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000014FBD6766F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000014FBE4D8380>
+[2025-06-30 18:05:08,280] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:05:08,589] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000018F752CE9C0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000018F751E7410>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000018F75490320>
+[2025-06-30 18:05:38,414] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:05:44,277] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:05:44,574] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001F3E7027B60>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001F3E63866F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001F3E71E0380>
+[2025-06-30 18:05:46,442] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:05:52,085] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:05:52,335] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000026042394F50>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000260416B66F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000026042558050>
+[2025-06-30 18:06:12,079] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:06:17,870] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:06:18,159] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001E653EB7D10>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001E653EB7CE0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001E654074170>
+[2025-06-30 18:08:21,966] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:08:27,825] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:08:28,213] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000020ADC9274A0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000020ADC9274D0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000020ADCAE40B0>
+[2025-06-30 18:09:35,069] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:09:40,649] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:09:40,924] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000230BD404D40>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000230BD407C50>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000230BD5C80B0>
+[2025-06-30 18:10:38,424] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:10:43,659] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:10:43,987] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001FA94767BC0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001FA947679B0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001FA949280E0>
+[2025-06-30 18:27:42,938] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:41:51,641] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:41:51,918] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001DDCEF67B00>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001DDCF1241D0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001DDCF124A10>
+[2025-06-30 18:45:41,012] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:45:47,459] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:45:47,701] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000021DD3DF7DA0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000021DD3DF7A40>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000021DD3FB47A0>
+[2025-06-30 18:46:18,419] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:46:23,706] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:46:31,024] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:46:59,855] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:47:18,643] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:49:03,342] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:50:14,672] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:50:14,932] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000123B1547D40>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000123B1547DD0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000123B1704830>
+[2025-06-30 18:51:01,929] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:51:07,612] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:51:07,851] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001CF45B96F90>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001CF45D50590>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001CF45D50B60>
+[2025-06-30 18:52:42,158] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:52:48,510] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:52:48,802] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000212038B7EF0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000212038B7F50>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000021203A74800>
+[2025-06-30 18:52:53,281] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:52:59,590] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:52:59,847] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001BADCC87F50>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001BADCBE75F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001BADCE44230>
+[2025-06-30 18:53:19,405] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:53:24,963] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:53:25,200] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000016797017DD0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000016797017F50>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000167971D4290>
+[2025-06-30 18:57:37,880] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:57:44,599] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:57:44,905] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000020D9EE27AA0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000020D9EE27DA0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000020D9EFE4530>
+[2025-06-30 18:58:02,129] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:58:08,012] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:58:08,288] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002ADC20A7E00>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002ADC20A7FB0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000002ADC2264740>
+[2025-06-30 18:58:44,176] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:58:50,079] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:58:50,326] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000013C0F817920>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000013C0F7D20F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000013C0F9D0530>
+[2025-06-30 18:59:21,693] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:59:27,842] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:59:28,044] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000022651DF7C50>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000022651DF7290>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000022651FB4890>
+[2025-06-30 18:59:45,135] INFO - App Logger - MongoDB connection closed
+[2025-06-30 18:59:50,940] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 18:59:51,228] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000018A7EE87950>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000018A7EE854F0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000018A7F044740>
+[2025-06-30 19:00:04,020] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:00:09,663] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:00:09,970] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001DA004DF6E0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001DA021907D0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001DA02190260>
+[2025-06-30 19:02:18,600] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:02:26,134] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:02:26,431] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000238ECA87E30>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000238ECA87C50>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000238ECC443E0>
+[2025-06-30 19:02:26,866] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:02:33,630] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:02:33,869] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000019BFBF07F80>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000019BFC0C4110>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000019BFC0C4CE0>
+[2025-06-30 19:03:19,879] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:03:25,640] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:03:25,859] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001E69F4278F0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001E69F427B60>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001E69F5E4AA0>
+[2025-06-30 19:03:31,326] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:03:31,543] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002D5FA627C20>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002D5FA627E00>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000002D5FA7E4680>
+[2025-06-30 19:03:58,213] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:04:03,767] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:04:03,954] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000022D733B7E90>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000022D73574170>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000022D73574B60>
+[2025-06-30 19:04:10,012] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:04:10,282] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000024C3AA3F6E0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000024C3C4C7F80>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000024C3C684710>
+[2025-06-30 19:06:06,909] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:06:12,621] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:06:12,842] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000134F05C7DA0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000134F0784C50>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000134F0784590>
+[2025-06-30 19:07:54,001] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:07:59,793] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:08:00,014] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000022D6F027AD0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000022D6F1E4D70>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000022D6F1E4BC0>
+[2025-06-30 19:09:13,694] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:09:20,380] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:09:21,489] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001D6D9C87AA0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001D6D7FCF3B0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001D6D9E44740>
+[2025-06-30 19:18:40,434] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:18:48,512] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:18:48,776] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001AE6B5B54C0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001AE6B5B7AA0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001AE6B7747A0>
+[2025-06-30 19:25:36,041] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:25:43,863] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:25:44,168] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000028F708A7A10>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000028F70A60680>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000028F70A600B0>
+[2025-06-30 19:25:50,034] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:25:50,302] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001DD963555E0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001DD96357EC0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001DD96514230>
+[2025-06-30 19:27:07,818] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:27:14,105] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:27:14,325] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000023908EC5100>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000023909214C20>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000023909214A70>
+[2025-06-30 19:27:14,549] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:27:21,451] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:27:21,690] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000023F42336EA0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000023F42337D40>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000023F424F46E0>
+[2025-06-30 19:29:02,836] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:31:22,979] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:31:23,257] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000173D5AD7FB0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000173D5AD7D70>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000173D5C94860>
+[2025-06-30 19:31:28,547] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:31:28,811] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001677C0B7830>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001677C274530>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001677C274CB0>
+[2025-06-30 19:33:02,576] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:33:08,542] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:33:08,771] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000017090984AD0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000170909878C0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000017090B444A0>
+[2025-06-30 19:34:29,091] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:34:35,573] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:34:35,819] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000202B5837A10>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000202B59F4BC0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000202B59F42C0>
+[2025-06-30 19:34:54,656] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:35:01,456] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:35:01,746] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001C2ED9653D0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001C2ED967A40>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001C2EDB24740>
+[2025-06-30 19:35:20,322] DEBUG - App Logger - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\bpcl\api\v1\endpoints\projects.py", line 24, in create_project
+    result = await GRAPHS["project"].ainvoke({"messages": []}, config=config)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\.venv\Lib\site-packages\langgraph\pregel\__init__.py", line 2928, in ainvoke
+    async for chunk in self.astream(
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\.venv\Lib\site-packages\langgraph\pregel\__init__.py", line 2776, in astream
+    async for _ in runner.atick(
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\.venv\Lib\site-packages\langgraph\pregel\runner.py", line 295, in atick
+    await arun_with_retry(
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\.venv\Lib\site-packages\langgraph\pregel\retry.py", line 137, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\.venv\Lib\site-packages\langgraph\utils\runnable.py", line 678, in ainvoke
+    input = await step.ainvoke(input, config)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\.venv\Lib\site-packages\langgraph\utils\runnable.py", line 440, in ainvoke
+    ret = await self.afunc(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\.venv\Lib\site-packages\langgraph\pregel\write.py", line 101, in _awrite
+    self.do_write(
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\.venv\Lib\site-packages\langgraph\pregel\write.py", line 128, in do_write
+    write(_assemble_writes(writes))
+          ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\.venv\Lib\site-packages\langgraph\pregel\write.py", line 183, in _assemble_writes
+    if ww := w.mapper(w.value):
+             ^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\.venv\Lib\site-packages\langgraph\graph\state.py", line 973, in _get_updates
+    raise InvalidUpdateError(msg)
+langgraph.errors.InvalidUpdateError: Expected dict, got [Instruction(instruction='Project Overview: The tender is issued by Bharat Petroleum Corporation Limited (BPCL) for public construction work.'), Instruction(instruction='Budget: The total budget allocated for the project is 25 Crore INR.'), Instruction(instruction='Submission Requirements: Bidders must submit their tenders by the specified deadline.'), Instruction(instruction='Completion Timeline: Tenders must outline a completion timeline scheduled for 25th July 2025.'), Instruction(instruction='Compliance Criteria: Verify that the submitted budget is within the allocated 25 Crore INR.'), Instruction(instruction='Compliance Check: Check for the inclusion of a completion date confirming the project will be completed by 25th July 2025.'), Instruction(instruction='Scope of Work: Ensure that the tender outlines services related to public construction work as required by the BPCL document.')]
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_GRAPH_NODE_RETURN_VALUE
+During task with name 'instruction_agent' and id 'd27e8985-d582-6dc6-795e-477317d2697c'
+
+[2025-06-30 19:36:19,109] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:36:25,124] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:36:25,374] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000021222D37710>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000021222D37980>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000021222EF42F0>
+[2025-06-30 19:38:16,812] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:38:23,077] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:38:23,347] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000022F74428980>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000022F74605040>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000022F74604EC0>
+[2025-06-30 19:38:35,273] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:38:41,165] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:38:41,394] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000024B9B417B90>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000024B9831DAC0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000024B9B5D40B0>
+[2025-06-30 19:38:56,998] DEBUG - App Logger - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\bpcl\api\v1\endpoints\projects.py", line 29, in create_project
+    async for instruction in result:
+                             ^^^^^^
+TypeError: 'async for' requires an object with __aiter__ method, got dict
+
+[2025-06-30 19:39:32,728] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:39:38,701] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:39:38,926] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000278F6067B60>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000278F6067E90>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000278F6224590>
+[2025-06-30 19:40:22,869] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:40:28,943] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:40:29,201] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001A388D07C50>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001A388EC0CE0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001A388EC0B30>
+[2025-06-30 19:40:42,207] DEBUG - App Logger - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\bpcl\api\v1\endpoints\projects.py", line 29, in create_project
+    for instruction in result['instructions']:
+                       ~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'instructions'
+
+[2025-06-30 19:40:55,300] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:41:01,246] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:41:01,546] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002A576E17EC0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002A576E17BF0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000002A576FD4140>
+[2025-06-30 19:41:11,916] DEBUG - App Logger - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\bpcl\api\v1\endpoints\projects.py", line 30, in create_project
+    for instruction in result['instructions']:
+                       ~~~~~~^^^^^^^^^^^^^^^^
+KeyError: 'instructions'
+
+[2025-06-30 19:42:46,943] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:42:54,056] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:42:54,304] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000019047737E30>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000190478F4CB0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000190478F45F0>
+[2025-06-30 19:43:00,939] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:43:01,186] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002BFCB647890>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002BFCB647C80>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000002BFCB8045C0>
+[2025-06-30 19:45:24,667] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:45:33,054] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:45:33,275] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000234D2C05490>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000234D2DC41D0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000234D2DC4950>
+[2025-06-30 19:45:44,449] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:45:51,578] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:45:51,861] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001C3AD0E7E00>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001C3AD0E7A70>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001C3AD2A4830>
+[2025-06-30 19:46:13,913] DEBUG - App Logger - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\bpcl\api\v1\endpoints\projects.py", line 30, in create_project
+    for instruction in result['structured_response']:
+                       ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'structured_response'
+
+[2025-06-30 19:48:25,255] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:48:32,385] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:48:32,674] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000156E67E7BF0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000156E69A0E00>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000156E69A0620>
+[2025-06-30 19:48:52,854] DEBUG - App Logger - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\bpcl\api\v1\endpoints\projects.py", line 30, in create_project
+    for instruction in result['structured_response']:
+                       ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'structured_response'
+
+[2025-06-30 19:50:55,923] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:51:02,397] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:51:03,279] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000018269A77DD0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000018269A77FE0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000018269C343B0>
+[2025-06-30 19:51:43,808] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:51:49,381] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:51:49,615] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000022069027D10>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000022069027BF0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000220691E4AA0>
+[2025-06-30 19:52:20,403] DEBUG - App Logger - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\bpcl\api\v1\endpoints\projects.py", line 23, in create_project
+    result = await InstructionAgent.ainvoke({"messages": []}, config=config)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'InstructionAgent' has no attribute 'ainvoke'
+
+[2025-06-30 19:52:35,877] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:52:41,878] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:52:42,489] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000194AE0E5370>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000194AE074380>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000194AE2A4920>
+[2025-06-30 19:52:47,965] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:52:48,218] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002AF62595490>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002AF62597E00>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000002AF627543B0>
+[2025-06-30 19:52:54,855] DEBUG - App Logger - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\bpcl\api\v1\endpoints\projects.py", line 23, in create_project
+    result = await InstructionAgent.instruction_agent.ainvoke({"messages": []}, config=config)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'function' object has no attribute 'ainvoke'
+
+[2025-06-30 19:55:31,407] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:55:37,222] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:55:37,783] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001E89E547AA0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001E89E704E60>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001E89E704C20>
+[2025-06-30 19:55:59,413] DEBUG - App Logger - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\bpcl\api\v1\endpoints\projects.py", line 23, in create_project
+    result = await InstructionAgent.instruction_agent({"messages": []}, config=config)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\bpcl\langgraph\agents\instruction_agent.py", line 99, in instruction_agent
+    return result['structured_reponse']
+           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'structured_reponse'
+
+[2025-06-30 19:56:34,097] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:56:40,532] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:56:40,724] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000220BD7D78F0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000220BD7D7860>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000220BD994B60>
+[2025-06-30 19:56:53,741] DEBUG - App Logger - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\bpcl\api\v1\endpoints\projects.py", line 23, in create_project
+    result = await InstructionAgent.instruction_agent({"messages": []}, config=config)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\bpcl\langgraph\agents\instruction_agent.py", line 99, in instruction_agent
+    return result['structured_reponse']
+           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'structured_reponse'
+
+[2025-06-30 19:57:31,282] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:57:38,558] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:57:38,774] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000205FC2EF6E0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x00000205FDD47B30>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000205FDF04380>
+[2025-06-30 19:57:44,921] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:57:45,562] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000023F0D70F6E0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000023F0F177D10>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000023F0F3344A0>
+[2025-06-30 19:57:51,529] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:57:51,749] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002328BF47590>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002328BF47560>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000002328C104350>
+[2025-06-30 19:58:08,834] DEBUG - App Logger - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\bpcl\api\v1\endpoints\projects.py", line 23, in create_project
+    result = await InstructionAgent.instruction_agent({"messages": []}, config=config)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\bpcl\langgraph\agents\instruction_agent.py", line 99, in instruction_agent
+    return result['structured_reponse']
+           ~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'structured_reponse'
+
+[2025-06-30 19:58:37,164] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:58:43,453] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:58:43,667] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000020E9F31F6E0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000020EA0E274A0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000020EA0FE40B0>
+[2025-06-30 19:58:49,927] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:58:50,144] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000002BC77477F80>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000002BC776342C0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000002BC77634890>
+[2025-06-30 19:59:07,015] DEBUG - App Logger - Traceback (most recent call last):
+  File "C:\Users\USER\Desktop\Code\Projects\bpcl-backend\bpcl\api\v1\endpoints\projects.py", line 29, in create_project
+    for instruction in result['structured_response']:
+                       ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'InstructionSet' object is not subscriptable
+
+[2025-06-30 19:59:45,584] INFO - App Logger - MongoDB connection closed
+[2025-06-30 19:59:51,775] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 19:59:52,478] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000019CE2DF7AA0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000019CE1E340B0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000019CE2FB40B0>
+[2025-06-30 20:00:31,453] INFO - App Logger - MongoDB connection closed
+[2025-06-30 20:00:37,593] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 20:00:37,797] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000019884B27B90>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000019884B27A40>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000019884CE4C20>
+[2025-06-30 20:01:20,286] INFO - App Logger - MongoDB connection closed
+[2025-06-30 20:01:26,304] INFO - App Logger - MongoDB connection initialized
+[2025-06-30 20:01:26,555] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x0000021CB5907E00>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000021CB5907DA0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x0000021CB5AC43B0>
+[2025-06-30 20:01:59,256] INFO - App Logger - MongoDB connection closed

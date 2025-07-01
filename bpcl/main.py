@@ -3,10 +3,12 @@ from contextlib import asynccontextmanager
 from fastapi.middleware.cors import CORSMiddleware
 from bpcl.api.router import router as api_router
 from bpcl.db.stores.MongoStore import MONGO_STORE
+from bpcl.langgraph.workflows import setup_graphs
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     await MONGO_STORE.connect()
+    await setup_graphs()
     yield
     await MONGO_STORE.disconnect()
 

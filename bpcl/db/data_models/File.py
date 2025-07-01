@@ -12,7 +12,7 @@ class File(Document):
         None, description="MIME type of the file, e.g., image/png"
     )
     size: Optional[int] = Field(None, description="Size of the file in bytes")
-    uploaded_at: datetime = Field(default_factory=datetime.now().astimezone(timezone.utc))
+    uploaded_at: str = Field(default_factory=datetime.now().astimezone(timezone.utc).isoformat)
 
     class Settings:
         name = "files"  # MongoDB collection name

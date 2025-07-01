@@ -15,7 +15,8 @@ router = APIRouter(prefix="/bids", tags=["Bids"])
 
 
 # Create Bid
-@router.post("/", response_model=Bid)
+# @router.post("/", response_model=Bid)
+@router.post("/")
 async def create_bid(bid: CreateBid):
     bid = Bid(**bid.model_dump())
     await bid.insert()
@@ -23,7 +24,8 @@ async def create_bid(bid: CreateBid):
 
 
 # Get All Bids
-@router.get("/", response_model=CursorPaginationResponse[Bid])
+# @router.get("/", response_model=CursorPaginationResponse[Bid])
+@router.get("/")
 async def get_all_bids(
     pagination: CursorPaginationRequest = Depends(),
     gstin_no: Optional[str] = Query(None),
@@ -58,7 +60,8 @@ async def get_all_bids(
 
 
 # Get Bid by ID
-@router.get("/{bid_id}", response_model=Bid)
+# @router.get("/{bid_id}", response_model=Bid)
+@router.get("/{bid_id}")
 async def get_bid(bid_id: str):
     bid = await Bid.get(bid_id)
     if not bid:
@@ -67,7 +70,8 @@ async def get_bid(bid_id: str):
 
 
 # Update Bid
-@router.put("/{bid_id}", response_model=Bid)
+# @router.put("/{bid_id}", response_model=Bid)
+@router.put("/{bid_id}")
 async def update_bid(bid_id: str, data: Bid):
     bid = await Bid.get(bid_id)
     if not bid:
@@ -92,7 +96,7 @@ async def delete_bid(bid_id: str):
     return {"detail": "Bid deleted"}
 
 # Patch Bid
-@router.patch("/{bid_id}", response_model=Bid)
+@router.patch("/{bid_id}")
 async def patch_bid(bid_id: str, data: UpdateBid):
     bid = await Bid.get(bid_id)
     if not bid:

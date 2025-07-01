@@ -12,4 +12,5 @@ DOCUMENT_MODELS = [
     InstructionSet,
     MasterInstructionSet,
     File,
+    Project
 ]
