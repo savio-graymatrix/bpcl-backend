@@ -1645,3 +1645,14 @@ reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001886CD91700>
 chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001886CF4C590>
 project:<langgraph.graph.state.CompiledStateGraph object at 0x000001886CF4CBC0>
 [2025-07-01 15:35:23,617] INFO - App Logger - MongoDB connection closed
+[2025-07-01 16:07:16,381] INFO - App Logger - MongoDB connection initialized
+[2025-07-01 16:07:16,646] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x000001BD640D2030>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x000001BD6417EAE0>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x000001BD6417F380>
+[2025-07-01 16:07:38,223] INFO - App Logger - MongoDB connection closed
+[2025-07-01 16:07:44,325] INFO - App Logger - MongoDB connection initialized
+[2025-07-01 16:07:44,622] INFO - App Logger - Graphs initialized:
+reviewer:<langgraph.graph.state.CompiledStateGraph object at 0x00000168817363C0>
+chatbot:<langgraph.graph.state.CompiledStateGraph object at 0x0000016882732660>
+project:<langgraph.graph.state.CompiledStateGraph object at 0x00000168816897C0>
