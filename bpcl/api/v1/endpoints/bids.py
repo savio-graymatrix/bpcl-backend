@@ -10,6 +10,8 @@ from typing import Optional
 from datetime import datetime, timezone
 from beanie.operators import Set
 
+from bpcl.langgraph.agents.compliance_agent import ComplianceAgent
+
 
 router = APIRouter(prefix="/bids", tags=["Bids"])
 
@@ -20,6 +22,15 @@ router = APIRouter(prefix="/bids", tags=["Bids"])
 async def create_bid(bid: CreateBid):
     bid = Bid(**bid.model_dump())
     await bid.insert()
+
+    config = {
+        "configurable": {
+            "thread_id": 1,
+            "project_id": bid.project_id,
+            "bid_id": bid.id
+        }
+    }
+    result = await ComplianceAgent.compliance_agent({"messages": []}, config=config)
     return bid
 
 
