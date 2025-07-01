@@ -13,7 +13,7 @@ class Bid(Document):
     # gstin_no: str
     # pan_id: str
     #documents: List[ObjectId] = Field(default_factory=list)
-    documents: File
+    bid_documents: File
     created_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
     updated_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
 
@@ -35,7 +35,7 @@ class CreateBid(BaseModel):
     # gstin_no: str
     # pan_id: str
     #documents: List[str]
-    documents: File
+    bid_documents: File
 
     model_config = ConfigDict(
         json_encoders = {
@@ -51,4 +51,4 @@ class UpdateBid(BaseModel):
     # gstin_no: Optional[str]
     # pan_id: Optional[str]
     #documents: Optional[List[str]]
-    documents: Optional[File]
+    bid_documents: Optional[File]

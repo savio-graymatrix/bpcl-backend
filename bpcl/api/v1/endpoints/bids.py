@@ -23,14 +23,14 @@ async def create_bid(bid: CreateBid):
     bid = Bid(**bid.model_dump())
     await bid.insert()
 
-    config = {
-        "configurable": {
-            "thread_id": 1,
-            "project_id": bid.project_id,
-            "bid_id": bid.id
-        }
-    }
-    result = await ComplianceAgent.compliance_agent({"messages": []}, config=config)
+    # config = {
+    #     "configurable": {
+    #         "thread_id": 1,
+    #         "project_id": bid.project_id,
+    #         "bid_id": bid.id
+    #     }
+    # }
+    #result = await ComplianceAgent.compliance_agent({"messages": []}, config=config)
     return bid
 
 

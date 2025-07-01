@@ -21,15 +21,10 @@ class ComplianceAgent():
         project_id = config["configurable"]["project_id"]
         bid_id = config["configurable"]["bid_id"]
         document = await Bid.find_one({"_id": bid_id})
-        document = document.documents.url
-        print(project_id)
+        document = document.bid_documents.url
         # Find the instruction set for this project
         instruction_set = await InstructionSet.find_one({"project_id": ObjectId(project_id)})
-        print(instruction_set)
-        # if not instruction_set:
-        #     # If no instruction set found for project_id, try using project_id as instruction_set_id
-        #     instruction_set = await InstructionSet.find_one({"_id": project_id})
-            
+        
         if instruction_set:
             # Get all instructions for this instruction set
             instructions = await Instruction.find({"instruction_set_id": instruction_set.id}).to_list()
@@ -102,14 +97,14 @@ Remember to be thorough and accurate in your review. Check every aspect of the b
         )
 
         result = await compliance_agent.ainvoke(state)
-
-        return Command(
-            update={
-                "messages": [
-                    AIMessage(
-                        content=result["messages"][-1].content, name=ComplianceAgent.agent_name
-                    )
-                ]
-            },
-            goto=END,
-        )
+        return result['structured_response']
+        # return Command(
+        #     update={
+        #         "messages": [
+        #             AIMessage(
+        #                 content=result["messages"][-1].content, name=ComplianceAgent.agent_name
+        #             )
+        #         ]
+        #     },
+        #     goto=END,
+        # )
