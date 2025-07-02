@@ -8,7 +8,7 @@ from fastapi import HTTPException
 
 router = APIRouter(prefix="/review")
 
-@router.post("/{bid_id}")
+@router.post("/generate/{bid_id}")
 async def parse_review(bid_id: str):
     try:
         bid = await Bid.get(bid_id)
@@ -44,3 +44,12 @@ async def parse_review(bid_id: str):
         LOGGER.debug(format_exc())
         return HTTPException(status_code=500, detail="Internal Server Error")
 
+@router.patch("/{review_id}")
+async def update_review(review_id: str, data: Review):
+    review = await Review.get(review_id)
+    if not review:
+        raise HTTPException(status_code=404, detail="Review not found")
+    review.updated_at = datetime.now(timezone.utc)
+    await review.update(
+        Set({getattr(Review, f): v for f, v in data.model_dump(exclude_unset=True).items()})
+    )

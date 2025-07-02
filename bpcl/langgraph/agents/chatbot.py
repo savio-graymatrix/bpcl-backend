@@ -45,12 +45,12 @@ class ChatbotAgent:
 
 1. First, familiarize yourself with the instruction set:
 <instructions>
-{{INSTRUCTIONS}}
+{INSTRUCTIONS}
 </instructions>
 
 2. Next, review the bid document analysis:
 <bid_review>
-{{BID_DOCUMENT}}
+{BID_DOCUMENT}
 </bid_review>
 
 3. When handling user queries, adhere to these guidelines:
