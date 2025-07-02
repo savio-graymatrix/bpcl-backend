@@ -10,5 +10,5 @@ class Review(BaseModel):
 class ReviewSet(BaseModel):
     reviewSets: List[Review] = Field(description="An array of reviews, each containing an alert, title and a message")
     #reasoning: str = Field(description="The weighted scoring and reasoning of the 'compliance_agent' for the scoring")
-    score: str = Field(description="The score of the 'compliance_agent' for the bid")
-    feedback: str = Field(description="The feedback of the 'compliance_agent' for the bid")
+    score: int = Field(description="The score of the 'compliance_agent' for the bid which should strictly be between 0 and 100")
+    feedback: str = Field(description="The short and concise feedback of the 'compliance_agent' for the bid")
