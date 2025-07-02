@@ -11,3 +11,4 @@ router.include_router(projects_router)
 router.include_router(parse_review_router)
 router.include_router(chat_stream_router)
 router.include_router(file_upload_router)
+router

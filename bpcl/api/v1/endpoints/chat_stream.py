@@ -11,5 +11,6 @@ router = APIRouter(prefix="/chat_stream")
 async def chat_stream(message: str, checkpoint_id: Optional[str] = Query(None)):
     """ """
     return StreamingResponse(
-        generate_chat_responses(message=message, checkpoint_id=checkpoint_id)
+        generate_chat_responses(message=message, checkpoint_id=checkpoint_id),
+        headers={"Content-Type": "text/event-stream"}
     )

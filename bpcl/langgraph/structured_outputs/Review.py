@@ -4,7 +4,7 @@ from typing import List, Literal
 
 class Review(BaseModel):
     alert: Literal["warning", "error", "caution"] = Field(description="The alert as per the 'compliance_agent'")
-    title: str = Field(description="The title of the review set")
+    title: str = Field(description="The title of the review")
     message: str = Field(description="The reason of the alert by the 'compliance_agent'")
 
 class ReviewSet(BaseModel):

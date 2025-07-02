@@ -5,6 +5,13 @@ from bpcl.db.data_models.InstructionSet import InstructionSet, Instruction
 from bpcl.langgraph.agents.instruction_agent import InstructionAgent
 from traceback import format_exc
 from bpcl import LOGGER
+from fastapi import APIRouter, HTTPException, Query, Depends
+from bpcl.db.utils import (
+    CursorPaginationRequest,
+    CursorPaginationResponse,
+    parse_operator_filter,
+)
+from typing import Optional
 
 router = APIRouter(prefix="/projects")
 
@@ -45,3 +52,30 @@ async def get_project(id: str):
     if not project:
         raise HTTPException(status_code=404, detail="Bid not found")
     return project
+
+
+@router.get("/")
+async def get_all_projects(
+    pagination: CursorPaginationRequest = Depends(),
+    created_at: Optional[str] = Query(None)
+):
+    query = {}
+    query.update(parse_operator_filter("created_at", created_at))
+
+    sort_field = pagination.sort_by or "created_at"
+    sort_order = pagination.sort_order or -1
+
+    cursor = Project.find(query).sort((sort_field, sort_order))
+
+    if pagination.after_id:
+        after_bid = await Project.get(pagination.after_id)
+        if after_bid:
+            after_value = getattr(after_bid, sort_field)
+            query[sort_field] = {"$lt" if sort_order == -1 else "$gt": after_value}
+            cursor = Project.find(query).sort((sort_field, sort_order))
+
+    items = await cursor.limit(pagination.limit).to_list()
+
+    next_cursor = items[-1].id if len(items) == pagination.limit else None
+
+    return CursorPaginationResponse[Project](items=items, next_cursor=next_cursor)
