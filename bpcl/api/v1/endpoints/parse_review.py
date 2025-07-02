@@ -53,3 +53,4 @@ async def update_review(review_id: str, data: Review):
     await review.update(
         Set({getattr(Review, f): v for f, v in data.model_dump(exclude_unset=True).items()})
     )
+    return review
