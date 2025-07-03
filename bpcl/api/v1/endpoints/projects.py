@@ -13,7 +13,7 @@ from bpcl.db.utils import (
 )
 from typing import Optional
 
-router = APIRouter(prefix="/projects")
+router = APIRouter(prefix="/projects",tags=["Projects"])
 
 ALLOWED_MIME_TYPES = {"application/pdf"}
 

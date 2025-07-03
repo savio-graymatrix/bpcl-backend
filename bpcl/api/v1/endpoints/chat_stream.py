@@ -4,7 +4,7 @@ from fastapi.responses import StreamingResponse
 from bpcl.services.generate_chat_response import generate_chat_responses
 from typing import Optional
 
-router = APIRouter(prefix="/chat_stream")
+router = APIRouter(prefix="/chat_stream",tags=["Chatbot"])
 
 
 @router.post("/{message}")

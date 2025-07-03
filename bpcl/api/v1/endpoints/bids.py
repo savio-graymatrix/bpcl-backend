@@ -1,4 +1,4 @@
-from fastapi import APIRouter, HTTPException, Response, Query, Depends
+from fastapi import APIRouter, HTTPException, Query, Depends, Body
 from typing import List
 from bpcl.db.data_models import Bid, CreateBid, UpdateBid
 from bpcl.db.utils import (
@@ -30,7 +30,7 @@ async def create_bid(bid: CreateBid):
     #         "bid_id": bid.id
     #     }
     # }
-    #result = await ComplianceAgent.compliance_agent({"messages": []}, config=config)
+    # result = await ComplianceAgent.compliance_agent({"messages": []}, config=config)
     return bid
 
 
@@ -41,7 +41,7 @@ async def get_all_bids(
     pagination: CursorPaginationRequest = Depends(),
     gstin_no: Optional[str] = Query(None),
     pan_id: Optional[str] = Query(None),
-    created_at: Optional[str] = Query(None)
+    created_at: Optional[str] = Query(None),
 ):
     query = {}
 
@@ -106,15 +106,18 @@ async def delete_bid(bid_id: str):
     await bid.delete()
     return {"detail": "Bid deleted"}
 
+
 # Patch Bid
 @router.patch("/{bid_id}")
-async def patch_bid(bid_id: str, data: UpdateBid):
+async def patch_bid(bid_id: str, data: UpdateBid = Body(...)):
     bid = await Bid.get(bid_id)
     if not bid:
         raise HTTPException(status_code=404, detail="Bid not found")
     bid.updated_at = datetime.now(timezone.utc)
     await bid.update(
-        Set({getattr(Bid, f): v for f, v in data.model_dump(exclude_unset=True).items()})
+        Set(
+            {getattr(Bid, f): v for f, v in data.model_dump(exclude_unset=True).items()}
+        )
     )
     # update_data = data.model_dump(exclude_unset=True)
     # for field, value in update_data.items():

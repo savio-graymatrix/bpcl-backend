@@ -3,7 +3,7 @@ from uuid import uuid4
 from bpcl.db.data_models.File import File
 from bpcl.services.upload_to_s3 import upload_to_s3  
 
-router = APIRouter()
+router = APIRouter(tags=["File Upload"])
 
 ALLOWED_MIME_TYPES = {"image/png", "image/jpeg", "application/pdf"}
 MAX_FILE_SIZE = 5 * 1024 * 1024
